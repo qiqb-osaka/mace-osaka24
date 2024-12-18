@@ -1,4 +1,4 @@
-# MACE_Osaka24 models
+# MACE-Osaka24 models
 This repository provides the model and training scripts for a multi-domain universal machine learning interatomic potentials (MLIPs), the MACE-Osaka24 models, capable of accurately describing both crystalline and molecular domains.
 
 The MACE-Osaka24 model is a universal MLIP trained on datasets of both crystals and molecules, which were generated using a dataset integration technique called "Total Energy Alignment" that combines first-principles calculations under various conditions. 
@@ -7,11 +7,19 @@ Its architecture is based on the first-generation MACE model. To use the models 
 
 ## Models
 
-The first generation of models are available in the [MACE_Osaka24](https://github.com/qiqb-osaka/mace_osaka24/releases/tag/v0.0.1).
+The first generation of models are available in the [MACE-Osaka24](https://github.com/qiqb-osaka/mace_osaka24/releases/tag/v0.0.1).
 
 If you use the models, in addition to citing the original MACE papers, please cite:
 
 ```bib
+@misc{shiota2024taming,
+    title={Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations},
+    author={Tomoya Shiota and Kenji Ishihara and Tuan Minh Do and Toshio Mori and Wataru Mizukami},
+    year={2024},
+    eprint={2412.13088},
+    archivePrefix={arXiv},
+    primaryClass={physics.chem-ph}
+}
 ```
 
 ## Training scripts
@@ -39,7 +47,6 @@ The integrated inorganic–organic domain dataset used to train the models—com
       eprint={2312.15211},
       archivePrefix={arXiv},
 }
-
 
 @article{eastman2023spice,
   title={Spice, a dataset of drug-like molecules and peptides for training machine learning potentials},
@@ -72,6 +79,15 @@ The integrated inorganic–organic domain dataset used to train the models—com
   pages={273},
   year={2022},
   publisher={Nature Publishing Group UK London}
+}
+
+@misc{shiota2024taming,
+    title={Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations},
+    author={Tomoya Shiota and Kenji Ishihara and Tuan Minh Do and Toshio Mori and Wataru Mizukami},
+    year={2024},
+    eprint={2412.13088},
+    archivePrefix={arXiv},
+    primaryClass={physics.chem-ph}
 }
 ```
 
