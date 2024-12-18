@@ -24,7 +24,7 @@ If you use the models, in addition to citing the original MACE papers, please ci
 
 ## Training scripts
 
-We provide training scripts for the models in this repository. The latest training command line is found in [`mace_osaka24/mace-osaka24-large.sh`](mace_osaka24/mace-osaka24-large.sh).
+We provide training scripts for the models in this repository. The latest training command line is found in [`mace-osaka24/mace-osaka24-large.sh`](mace_osaka24/mace-osaka24-large.sh).
 
 ## Training data
 
