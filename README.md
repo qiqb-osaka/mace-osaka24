@@ -7,7 +7,7 @@ Its architecture is based on the first-generation MACE model. To use the models 
 
 ## Models
 
-The first generation of models are available in the [MACE-Osaka24](https://github.com/qiqb-osaka/mace_osaka24/releases/tag/v0.0.1).
+The first generation of models are available in the [MACE-Osaka24](https://github.com/qiqb-osaka/mace-osaka24/releases/tag/v0.0.1).
 
 If you use the models, in addition to citing the original MACE papers, please cite:
 
