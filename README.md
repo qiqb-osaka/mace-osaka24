@@ -28,7 +28,7 @@ We provide training scripts for the models in this repository. The latest traini
 
 ## Training data
 
-The integrated inorganic–organic domain dataset used to train the models—composed of the inorganic MPtrj dataset and the organic SPICE, QMug, water clusters, and Tripeptides (OFF23) datasets—is available at [figshare](). If you use any of these datasets, please cite the following paper.
+The integrated inorganic–organic domain dataset used to train the models—composed of the inorganic MPtrj dataset and the organic SPICE, QMug, water clusters, and Tripeptides (OFF23) datasets—is available at [figshare](https://figshare.com/articles/dataset/Inorganic_organic_domain_dataset/28023149). If you use any of these datasets, please cite the following paper.
 
 ```bib
 @article{deng2023chgnet,
