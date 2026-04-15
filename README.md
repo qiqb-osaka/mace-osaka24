@@ -1,3 +1,8 @@
+# ⚠️ Security Notice
+At this time, we are **not aware of any malicious impersonation repository** targeting `mace-osaka24`.  
+However, users are advised to exercise caution and download release files **only from this official repository**.  
+Please do **not** download or run files from unofficial repositories or other unverified sources.
+
 # MACE-Osaka24 models
 This repository provides the model and training scripts for a multi-domain universal machine learning interatomic potentials (MLIPs), the MACE-Osaka24 models, capable of accurately describing both crystalline and molecular domains.
 
